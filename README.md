@@ -3,8 +3,8 @@
 An interactive web-based toolkit for digital collaboration and engagement.  
 This project showcases front-end engineering and design skills by providing a lightweight **whiteboard app** with draggable sticky notes, reusable templates, and a simple UI that mimics enterprise collaboration tools.  
 
-👉 **Live Demo:** [Link](https://vinny990.github.io/digital-engagement-toolkit/whiteboard.html)
-👉 **GitHub Repo:** [vinny990/digital-engagement-toolkit](https://github.com/vinny990/digital-engagement-toolkit)  
+- **Live Demo:** [Link](https://vinny990.github.io/digital-engagement-toolkit/whiteboard.html)
+- **GitHub Repo:** [vinny990/digital-engagement-toolkit](https://github.com/vinny990/digital-engagement-toolkit)  
 
 ---
 
